@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst and Data scientist
 - 🌱 I’m currently learning PowerBi, pandas, numpy and chess
 - 💞️ I’m looking for a Data Analyst job
-- 📫 How to reach me..... LinkedIn:- www.linkedin.com/in/arun-kumar-m-242a46169](https://www.linkedin.com/in/arun-kumar--m/
+- 📫 How to reach me..... LinkedIn:- https://www.linkedin.com/in/arun-kumar--m/
 
 <!---
 arun7371/arun7371 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
