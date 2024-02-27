@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arun7371
 - 👀 I’m interested in Data Analyst and Data scientist
 - 🌱 I’m currently learning PowerBi, pandas, numpy and chess
-- 💞️ I’m looking for a Data Analyst job
+- 💞️ I’m looking for a Data Science/Analyst job
 - 📫 How to reach me..... LinkedIn:- https://www.linkedin.com/in/arun-kumar--m/
 
 <!---
